@@ -1,0 +1,1 @@
+# yandex-mail_parser-message
